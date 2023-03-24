@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84b41098-c429-4179-99ec-d98c108bed2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/MovieController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/MovieRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/MovieService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/ReviewRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/ReviewService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/cinebook/src/main/java/mycineproj/com/cinebook/Review.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
