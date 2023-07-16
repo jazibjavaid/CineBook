@@ -16,7 +16,6 @@ CineBook is a web application that allows users to search for movies, book movie
 <li>Ticket Booking: Users can select movie showtimes and book tickets.</li>
 <li>User Authentication: User registration and login functionality to access personalized features.</li>
 <li>Movie Reviews: Users can add reviews or comments to movies they have watched.</li>
-<li>User Profile: Users can manage their profile information and view their booking history.</li>
 </ul>
 
 ## Getting Started
